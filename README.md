@@ -1,19 +1,5 @@
 # The PICOL icons pack as font!
 
-================================================================================
-Please, note, that you should obey original font licences, used to make this
-webfont pack. Details available in LICENSE.txt file.
-
-- Usually, it's enough to publish content of LICENSE.txt file somewhere on your
-  site in "About" section.
-
-- If your project is open-source, usually, it will be ok to make LICENSE.txt
-  file publically available in your repository.
-
-- Fonts, used in Fontello, don't require to make clickable links on your site.
-  But any kind of additional authors crediting is welcome.
-================================================================================
-
 ## Installation
 ```
 bower install picol-font
